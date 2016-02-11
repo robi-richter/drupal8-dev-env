@@ -1,1 +1,1 @@
-# drupal8-dev-env
+# Drupal 8 development environment template
